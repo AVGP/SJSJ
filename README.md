@@ -51,7 +51,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 ### C
 
-* [Canvas](/glossary/CANVAS.md): An HTML element useful for graphic applications in 2D or 3D.
+* [Canvas](/glossary/CANVAS.md): An HTML element for graphic applications in 2D or 3D.
 * [Chai](/glossary/CHAI.md): an assertion library used with a JavaScript testing framework.
 * [Closure](/glossary/CLOSURE.md): *to be completed.*
 * [CoffeeScript](/glossary/COFFEESCRIPT.md): a language that compiles into JavaScript.
@@ -165,6 +165,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 ### W
 
+* [WebGL](/glossary/WEBGL.md): *to be completed.*
 * [webpack](/glossary/WEBPACK.md): a dependency manager with a friendly and fast development environment, simplifying a lot of common tasks.
 
 ### X
